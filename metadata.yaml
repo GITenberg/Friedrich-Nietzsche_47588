@@ -1,0 +1,31 @@
+_repo: Friedrich-Nietzsche_47588
+contributor:
+  translator:
+    agent_name: Chater, Arthur G.
+    alias: Chater, A. G. (Arthur G.)
+    gutenberg_agent_id: '1190'
+    url: http://www.gutenberg.org/2009/agents/1190
+creator:
+  author:
+    agent_name: Brandes, Georg
+    aliases:
+    - Brandes, Georg Morris Cohen
+    - Brandes, G. (Georg)
+    - Brandes, George
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '2674'
+    url: http://www.gutenberg.org/2009/agents/2674
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
+description: 'Indhold: Nietzsche et Brandes / Henri Albert. -- Friedrich Nietzsche
+  / Georg Brandes. -- Georg Brandes / Maurice Bigeon'
+gutenberg_issued: '2014-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Friedrich Nietzsche
+url: http://www.gutenberg.org/ebooks/47588
