@@ -1,10 +1,14 @@
 _repo: Friedrich-Nietzsche_47588
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Chater, Arthur G.
     alias: Chater, A. G. (Arthur G.)
     gutenberg_agent_id: '1190'
     url: http://www.gutenberg.org/2009/agents/1190
+covers:
+- cover_type: archival
+  image_path: 47588-h/images/brandes_cover.jpg
 creator:
   author:
     agent_name: Brandes, Georg
@@ -19,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
 description: 'Indhold: Nietzsche et Brandes / Henri Albert. -- Friedrich Nietzsche
   / Georg Brandes. -- Georg Brandes / Maurice Bigeon'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47588#Friedrich-Nietzsche
 gutenberg_issued: '2014-12-08'
 gutenberg_type: Text
 identifiers:
